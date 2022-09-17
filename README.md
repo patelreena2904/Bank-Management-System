@@ -13,11 +13,3 @@ The Bank Management Project in C++ language is a beginner project and is created
 * Transactions
 * Delete the data of a user
 
-## Images
-  
- <img src = "img/img01.JPG" width = "510">
- <img src = "img/img02.JPG" width = "510">
- <img src = "img/img03.JPG" width = "510">
- <img src = "img/img04.JPG" width = "510">
- <img src = "img/img05.JPG" width = "510">
- <img src = "img/img06.JPG" width = "510">
